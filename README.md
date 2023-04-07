@@ -1,2 +1,2 @@
 # Node-React
-This is a online property listing portal
+This is an online property listing portal
